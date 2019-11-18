@@ -23,7 +23,7 @@
   },
   "prettier": "@willbooster/prettier-config",
   "dependencies": {
-    "@babel/polyfill": "7.4.4"
+    "@babel/polyfill": "7.7.0"
   },
   "devDependencies": {
     "@babel/cli": "7.4.4",
