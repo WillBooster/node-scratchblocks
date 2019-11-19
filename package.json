@@ -53,7 +53,7 @@
     "rollup-plugin-node-globals": "1.4.0",
     "rollup-plugin-node-resolve": "3.4.0",
     "rollup-plugin-serve": "1.0.1",
-    "scratch-l10n": "3.2.20190425212106",
+    "scratch-l10n": "3.6.20191119224037",
     "sort-package-json": "1.23.1"
   }
 }
