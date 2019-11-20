@@ -6207,10 +6207,10 @@ sax@^1.2.4:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-scratch-l10n@3.6.20191119224037:
-  version "3.6.20191119224037"
-  resolved "https://registry.yarnpkg.com/scratch-l10n/-/scratch-l10n-3.6.20191119224037.tgz#70698db008336d30d62f53ef4af6c587e9300b9d"
-  integrity sha512-XvJ8K1bouXhs0yy3DFXONiuy3uwZgqSCP68xcOE1K53REtmkwcOQ9v9Z3ZypD9tHS9JTgVVi8Y/NDsyV0m1ztw==
+scratch-l10n@3.6.20191120161253:
+  version "3.6.20191120161253"
+  resolved "https://registry.yarnpkg.com/scratch-l10n/-/scratch-l10n-3.6.20191120161253.tgz#b34788b2da0e542b6d85fc748575fae909626597"
+  integrity sha512-M315ak1Y/VF+0Yv2nrSlQM8qIEV2MlkPC2VVHz7/Ag64ib6PJBuPNLXmQ26u4ToDxA97ouzgBDWUoupJS3n96g==
   dependencies:
     "@babel/cli" "^7.1.2"
     "@babel/core" "^7.1.2"
