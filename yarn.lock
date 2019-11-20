@@ -994,10 +994,10 @@
   resolved "https://registry.yarnpkg.com/@willbooster/eslint-config-pure-js/-/eslint-config-pure-js-0.1.6.tgz#9c5449bab213f5f7d8ade6e42f0bbe5dd2fa08be"
   integrity sha512-enhG++i2kt+ih8m73IxhxPcu2liR95gRWtmDaMag05XvUrnA50KCh5X3tKzyLWaql2RAOKb/q8Gj10wsSfNvVQ==
 
-"@willbooster/prettier-config@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@willbooster/prettier-config/-/prettier-config-2.0.0.tgz#417df70a69b8f1070c2ab889fbf1a43830b98ff9"
-  integrity sha512-JuMj/BX5PozZAz7UJSqBB9Pp/l/g2/8S8XIna3hTCznVRNOlCF+h+aKc5KaXp2L71Hcn0nQptzqA+zGPfbmsKA==
+"@willbooster/prettier-config@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@willbooster/prettier-config/-/prettier-config-2.1.0.tgz#b9a2906e853d5f32aee1560910f833a147c2eeb2"
+  integrity sha512-8WWI0eNvBIKyOy9QF+UauwabOIhOqPlbrU1zhURU6/wSkloWmCaN/OJaVPVUEwHfnrlRS37G9M4VX/pJRNAaKg==
 
 JSONStream@^1.0.3:
   version "1.3.5"
