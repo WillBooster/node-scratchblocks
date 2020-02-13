@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "音调",
-    "左右平衡"
-  ],
-  "osis": [
-    "该角色的其他脚本"
-  ],
-  "define": [
-    "定义"
-  ],
+  "soundEffects": ["音调", "左右平衡"],
+  "osis": ["该角色的其他脚本"],
+  "define": ["定义"],
   "palette": {
     "Motion": "运动",
     "Looks": "外观",

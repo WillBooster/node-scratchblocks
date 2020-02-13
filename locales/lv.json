@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "augstums",
-    "bīdīt pa labi/pa kreisi"
-  ],
-  "osis": [
-    "citi skripti gariņā"
-  ],
-  "define": [
-    "definēt"
-  ],
+  "soundEffects": ["augstums", "bīdīt pa labi/pa kreisi"],
+  "osis": ["citi skripti gariņā"],
+  "define": ["definēt"],
   "palette": {
     "Motion": "Kustība",
     "Looks": "Izskats",

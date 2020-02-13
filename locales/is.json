@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tónhæð",
-    "skima til vinstri/hægri"
-  ],
-  "osis": [
-    "önnur forrit á karakter"
-  ],
-  "define": [
-    "skilgreina"
-  ],
+  "soundEffects": ["tónhæð", "skima til vinstri/hægri"],
+  "osis": ["önnur forrit á karakter"],
+  "define": ["skilgreina"],
   "palette": {
     "Motion": "Hreyfing",
     "Looks": "Útlit",

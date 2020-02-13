@@ -130,9 +130,7 @@
     "tilt": "ಓರೆಮಾಡು",
     "else": "ಇಲ್ಲದಿದ್ದರೆ"
   },
-  "ignorelt": [
-    "ದೂರವು ಯಾವಾಗundefined"
-  ],
+  "ignorelt": ["ದೂರವು ಯಾವಾಗundefined"],
   "dropdowns": {
     "A connected": "A ಕೂಡಿದೆ",
     "all": "ಎಲ್ಲಾ",
@@ -161,9 +159,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "ವ್ಯಾಖ್ಯಾನ"
-  ],
+  "define": ["ವ್ಯಾಖ್ಯಾನ"],
   "palette": {
     "Motion": "ಚಲನೆ",
     "Looks": "ಕಾಣುವುದು",
@@ -176,10 +172,7 @@
     "Operators": "ಚಿಹ್ನ್ಹೆ",
     "More Blocks": "ಹೆಚ್ಚು ಇಟ್ಟಿಗೆಗಳು"
   },
-  "math": [
-    "ಪೂರ್ಣಾಂಕ",
-    "ವರ್ಗಮೂಲ"
-  ],
+  "math": ["ಪೂರ್ಣಾಂಕ", "ವರ್ಗಮೂಲ"],
   "aliases": {},
   "name": "ಭಾಷೆ-ಹೆಸರು",
   "percentTranslated": 94,

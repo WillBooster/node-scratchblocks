@@ -137,9 +137,7 @@
     "tilt": "inclinação",
     "else": "senão"
   },
-  "ignorelt": [
-    "quando a distância forundefined"
-  ],
+  "ignorelt": ["quando a distância forundefined"],
   "dropdowns": {
     "A connected": "A conectado",
     "all": "todos",
@@ -196,13 +194,8 @@
     "year": "ano"
   },
   "soundEffects": [],
-  "osis": [
-    "outros scripts do ator",
-    "outros scripts em uso"
-  ],
-  "define": [
-    "defina"
-  ],
+  "osis": ["outros scripts do ator", "outros scripts em uso"],
+  "define": ["defina"],
   "palette": {
     "Motion": "Movimento",
     "Looks": "Aparência",

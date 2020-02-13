@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "ፒች",
-    "ሸብልል ወደ ግራ/ቀኝ"
-  ],
-  "osis": [
-    "ሌሎች በስፕራይት ላይ ያሉ ስክሪፕቶች"
-  ],
-  "define": [
-    "ን ደንግግ"
-  ],
+  "soundEffects": ["ፒች", "ሸብልል ወደ ግራ/ቀኝ"],
+  "osis": ["ሌሎች በስፕራይት ላይ ያሉ ስክሪፕቶች"],
+  "define": ["ን ደንግግ"],
   "palette": {
     "Motion": "እንቅስቃሴ",
     "Looks": "ገጽታ",
@@ -176,22 +169,7 @@
     "Variables": "ተለዋዋጮች",
     "My Blocks": "የኔ ጥምሮች"
   },
-  "math": [
-    "abs",
-    "መሬት",
-    "ጣራ",
-    "sqrt",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ውስጥ",
-    "ግባ",
-    "e^",
-    "10 ^"
-  ],
+  "math": ["abs", "መሬት", "ጣራ", "sqrt", "sin", "cos", "tan", "asin", "acos", "atan", "ውስጥ", "ግባ", "e^", "10 ^"],
   "aliases": {},
   "name": "አማርኛ",
   "percentTranslated": 119

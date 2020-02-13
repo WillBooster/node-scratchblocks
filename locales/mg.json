@@ -51,9 +51,7 @@
     "turn %m.motor off": "ajanona ny %m.motor",
     "distance": "alavirana"
   },
-  "ignorelt": [
-    "rahefa ny alaviranaundefined"
-  ],
+  "ignorelt": ["rahefa ny alaviranaundefined"],
   "dropdowns": {
     "all": "rehetra",
     "button pressed": "Bokotra voatsindry",
@@ -74,9 +72,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "faritana"
-  ],
+  "define": ["faritana"],
   "palette": {
     "Motion": "Fihetsika",
     "Sound": "Feo",
@@ -84,9 +80,7 @@
     "list": "lisitra",
     "Tips": "toro-hevitra"
   },
-  "math": [
-    "10^"
-  ],
+  "math": ["10^"],
   "aliases": {},
   "name": "",
   "percentTranslated": 36,

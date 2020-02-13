@@ -112,12 +112,8 @@
     "year": "wata"
   },
   "soundEffects": [],
-  "osis": [
-    "huk qillqaykuna ipupi"
-  ],
-  "define": [
-    "nin"
-  ],
+  "osis": ["huk qillqaykuna ipupi"],
+  "define": ["nin"],
   "palette": {
     "Motion": "Muyuy",
     "Looks": "Qaway",
@@ -130,10 +126,7 @@
     "Operators": "Llamkaq",
     "More Blocks": "Champachiy"
   },
-  "math": [
-    "allpa",
-    "qata"
-  ],
+  "math": ["allpa", "qata"],
   "aliases": {},
   "name": "",
   "percentTranslated": 52,

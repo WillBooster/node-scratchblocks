@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "sävelkorkeus",
-    "panoroi vasen/oikea"
-  ],
-  "osis": [
-    "hahmon muut skriptit"
-  ],
-  "define": [
-    "määrittele"
-  ],
+  "soundEffects": ["sävelkorkeus", "panoroi vasen/oikea"],
+  "osis": ["hahmon muut skriptit"],
+  "define": ["määrittele"],
   "palette": {
     "Motion": "Liike",
     "Looks": "Ulkonäkö",

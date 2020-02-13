@@ -139,9 +139,7 @@
     "tilt": "pjerrësia",
     "else": "përndryshe"
   },
-  "ignorelt": [
-    "kur distancaundefined"
-  ],
+  "ignorelt": ["kur distancaundefined"],
   "dropdowns": {
     "A connected": "A i lidhur",
     "all": "të gjitha",
@@ -197,13 +195,8 @@
     "year": "viti"
   },
   "soundEffects": [],
-  "osis": [
-    "skripte të tjera në sprite",
-    "skripte të tjera në skenë"
-  ],
-  "define": [
-    "përcakto"
-  ],
+  "osis": ["skripte të tjera në sprite", "skripte të tjera në skenë"],
+  "define": ["përcakto"],
   "palette": {
     "Motion": "Lëvizjet",
     "Looks": "Pamjet",
@@ -219,11 +212,7 @@
     "More Blocks": "Më Shumë Blloqe",
     "Tips": "Këshilla"
   },
-  "math": [
-    "dysheme",
-    "tavan",
-    "Në"
-  ],
+  "math": ["dysheme", "tavan", "Në"],
   "aliases": {},
   "name": "Shqip",
   "percentTranslated": 100,

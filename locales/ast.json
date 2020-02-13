@@ -136,9 +136,7 @@
     "tilt": "inclinación",
     "else": "sinón"
   },
-  "ignorelt": [
-    "cuando la distancia seyaundefined"
-  ],
+  "ignorelt": ["cuando la distancia seyaundefined"],
   "dropdowns": {
     "A connected": "A coneutáu",
     "all": "too",
@@ -151,9 +149,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "definir"
-  ],
+  "define": ["definir"],
   "palette": {
     "Motion": "Movimientu",
     "Looks": "Aspeutu",
@@ -165,9 +161,7 @@
     "Operators": "Operadores",
     "More Blocks": "Más Bloques"
   },
-  "math": [
-    "techu"
-  ],
+  "math": ["techu"],
   "aliases": {},
   "name": "Asturianu",
   "percentTranslated": 98,

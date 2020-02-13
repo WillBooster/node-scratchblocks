@@ -139,9 +139,7 @@
     "tilt": "إمالہ",
     "else": "ورنہ"
   },
-  "ignorelt": [
-    "جب فاصلہ undefined"
-  ],
+  "ignorelt": ["جب فاصلہ undefined"],
   "dropdowns": {
     "A connected": "A منسلک ہو گیا ہے",
     "all": "تمام",
@@ -155,9 +153,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "تعریف"
-  ],
+  "define": ["تعریف"],
   "palette": {
     "Motion": "حركت",
     "Looks": "مظاهر",

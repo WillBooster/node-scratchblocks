@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const util = require('util');
+
 const fs_writeFile = util.promisify(fs.writeFile);
 
 const browserify = require('browserify');

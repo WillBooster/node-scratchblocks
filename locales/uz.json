@@ -171,10 +171,7 @@
     "year": "yil"
   },
   "soundEffects": [],
-  "osis": [
-    "ajib ko‘rinishdagi boshqa skriptlar",
-    "sahnaning boshqa skriptlari"
-  ],
+  "osis": ["ajib ko‘rinishdagi boshqa skriptlar", "sahnaning boshqa skriptlari"],
   "define": [],
   "palette": {
     "Motion": "Harakat",
@@ -191,13 +188,7 @@
     "More Blocks": "Yana Bloklar",
     "Tips": "Maslahatlar"
   },
-  "math": [
-    "modul",
-    "pol",
-    "shift",
-    "gunoh",
-    "Ichida"
-  ],
+  "math": ["modul", "pol", "shift", "gunoh", "Ichida"],
   "aliases": {},
   "name": "",
   "percentTranslated": 82,

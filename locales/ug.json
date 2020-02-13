@@ -47,9 +47,7 @@
     "Sensing": "سىزىش",
     "Operators": "مەشغۇلاتچىلار"
   },
-  "math": [
-    "مۇتلەق قىممەت"
-  ],
+  "math": ["مۇتلەق قىممەت"],
   "aliases": {},
   "name": "Uyghur",
   "percentTranslated": 18,

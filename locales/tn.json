@@ -188,13 +188,8 @@
     "year": "ngwaga"
   },
   "soundEffects": [],
-  "osis": [
-    "makwalo amangwe mo sprite",
-    "makwalo amangwe mo seraleng"
-  ],
-  "define": [
-    "tlhalosa"
-  ],
+  "osis": ["makwalo amangwe mo sprite", "makwalo amangwe mo seraleng"],
+  "define": ["tlhalosa"],
   "palette": {
     "Motion": "Tsikinyego",
     "Looks": "Dipopego",
@@ -210,9 +205,7 @@
     "More Blocks": "Diboloko tse dintsi",
     "Tips": "Dikaelo"
   },
-  "math": [
-    "bodilo"
-  ],
+  "math": ["bodilo"],
   "aliases": {},
   "name": "Setswana",
   "percentTranslated": 97,

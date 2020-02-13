@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "višina tona",
-    "premik levo/desno"
-  ],
-  "osis": [
-    "ostale ukaze za to figuro"
-  ],
-  "define": [
-    "definiraj"
-  ],
+  "soundEffects": ["višina tona", "premik levo/desno"],
+  "osis": ["ostale ukaze za to figuro"],
+  "define": ["definiraj"],
   "palette": {
     "Motion": "Gibanje",
     "Looks": "Videzi",

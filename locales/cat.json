@@ -115,15 +115,11 @@
     "tilt": "meow",
     "else": "meow"
   },
-  "ignorelt": [
-    "when meowundefined"
-  ],
+  "ignorelt": ["when meowundefined"],
   "dropdowns": {},
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "meow"
-  ],
+  "define": ["meow"],
   "palette": {
     "Motion": "Meow",
     "Looks": "Meow",

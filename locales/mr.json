@@ -142,9 +142,7 @@
     "Sensing": "संवेदना",
     "Operators": "क्रिया"
   },
-  "math": [
-    "वर्गमूळ"
-  ],
+  "math": ["वर्गमूळ"],
   "aliases": {},
   "name": "मराठी",
   "percentTranslated": 73,

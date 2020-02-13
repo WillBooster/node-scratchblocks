@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "toonhoogte",
-    "kanaal links/rechts"
-  ],
-  "osis": [
-    "andere scripts in sprite"
-  ],
-  "define": [
-    "definieer"
-  ],
+  "soundEffects": ["toonhoogte", "kanaal links/rechts"],
+  "osis": ["andere scripts in sprite"],
+  "define": ["definieer"],
   "palette": {
     "Motion": "Beweging",
     "Looks": "Uiterlijken",

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "gleusa",
-    "panachaidh gu clì/deas"
-  ],
-  "osis": [
-    "sgriobtaichean eile na sprìde"
-  ],
-  "define": [
-    "mìnich"
-  ],
+  "soundEffects": ["gleusa", "panachaidh gu clì/deas"],
+  "osis": ["sgriobtaichean eile na sprìde"],
+  "define": ["mìnich"],
   "palette": {
     "Motion": "Gluasad",
     "Looks": "Coltas",

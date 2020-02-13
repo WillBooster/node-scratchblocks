@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "ses perdesi",
-    "sağa-sola kaydır"
-  ],
-  "osis": [
-    "Kukladaki diğer diziler"
-  ],
-  "define": [
-    "tanımla"
-  ],
+  "soundEffects": ["ses perdesi", "sağa-sola kaydır"],
+  "osis": ["Kukladaki diğer diziler"],
+  "define": ["tanımla"],
   "palette": {
     "Motion": "Hareket",
     "Looks": "Görünüm",

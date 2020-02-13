@@ -172,9 +172,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "Elezea"
-  ],
+  "define": ["Elezea"],
   "palette": {
     "Motion": "mwendo",
     "Looks": "muonekano",
@@ -188,15 +186,7 @@
     "Operators": "opereta",
     "Tips": "dondoo"
   },
-  "math": [
-    "Kabisa",
-    "sakafu",
-    "Dari",
-    "kipeuo cha pili",
-    "sini",
-    "kosini",
-    "tanjenti"
-  ],
+  "math": ["Kabisa", "sakafu", "Dari", "kipeuo cha pili", "sini", "kosini", "tanjenti"],
   "aliases": {},
   "name": "luga-jina",
   "percentTranslated": 91,

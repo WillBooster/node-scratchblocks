@@ -74,9 +74,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "сбӕрӕг кӕнын"
-  ],
+  "define": ["сбӕрӕг кӕнын"],
   "palette": {
     "Motion": "Змӕлд",
     "Looks": "Уынд",
@@ -87,9 +85,7 @@
     "Operators": "Оператортӕ",
     "More Blocks": "Фылдӕр блоктӕ"
   },
-  "math": [
-    "модул"
-  ],
+  "math": ["модул"],
   "aliases": {},
   "name": "Ирон",
   "percentTranslated": 44,

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "hauteur",
-    "stéréo gauche/droite"
-  ],
-  "osis": [
-    "autres scripts dans sprite"
-  ],
-  "define": [
-    "définir"
-  ],
+  "soundEffects": ["hauteur", "stéréo gauche/droite"],
+  "osis": ["autres scripts dans sprite"],
+  "define": ["définir"],
   "palette": {
     "Motion": "Mouvement",
     "Looks": "Apparence",

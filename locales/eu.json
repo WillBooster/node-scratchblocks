@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tonua",
-    "ezker/eskuin balantzea"
-  ],
-  "osis": [
-    "pertsonaiaren beste script batzuk"
-  ],
-  "define": [
-    "definitu"
-  ],
+  "soundEffects": ["tonua", "ezker/eskuin balantzea"],
+  "osis": ["pertsonaiaren beste script batzuk"],
+  "define": ["definitu"],
   "palette": {
     "Motion": "Mugimendua",
     "Looks": "Itxura",

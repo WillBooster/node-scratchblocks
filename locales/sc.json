@@ -139,9 +139,7 @@
     "tilt": "incurvadura",
     "else": "si nono"
   },
-  "ignorelt": [
-    "cando su tretuundefined"
-  ],
+  "ignorelt": ["cando su tretuundefined"],
   "dropdowns": {
     "A connected": "A connessu",
     "all": "totu",
@@ -198,13 +196,8 @@
     "year": "annu"
   },
   "soundEffects": [],
-  "osis": [
-    "àteros programmas de su duendu",
-    "àteros programmas de su duendu"
-  ],
-  "define": [
-    "defini"
-  ],
+  "osis": ["àteros programmas de su duendu", "àteros programmas de su duendu"],
+  "define": ["defini"],
   "palette": {
     "Motion": "Movimentu",
     "Looks": "Bisura",
@@ -220,10 +213,7 @@
     "More Blocks": "Àteros Blocos",
     "Tips": "Consìgios"
   },
-  "math": [
-    "rotunda a s'intreu a suta",
-    "rotunda a s'intreu a subra de"
-  ],
+  "math": ["rotunda a s'intreu a suta", "rotunda a s'intreu a subra de"],
   "aliases": {},
   "name": "Sardu",
   "percentTranslated": 100,

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "kökləmək",
-    "tas sol/sağ"
-  ],
-  "osis": [
-    "spraytın digər skriptləri"
-  ],
-  "define": [
-    "təyin et"
-  ],
+  "soundEffects": ["kökləmək", "tas sol/sağ"],
+  "osis": ["spraytın digər skriptləri"],
+  "define": ["təyin et"],
   "palette": {
     "Motion": "Hərəkət",
     "Looks": "Görünüş",

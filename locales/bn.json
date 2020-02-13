@@ -88,9 +88,7 @@
     "tilt": "ঢালু",
     "else": "অন্যথায়"
   },
-  "ignorelt": [
-    "যখন দূরত্বundefined"
-  ],
+  "ignorelt": ["যখন দূরত্বundefined"],
   "dropdowns": {
     "A connected": "একটি সংযুক্ত",
     "all": "সব",
@@ -139,9 +137,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "নির্ধারণ"
-  ],
+  "define": ["নির্ধারণ"],
   "palette": {
     "Motion": "গতি",
     "Looks": "চেহারা",
@@ -155,11 +151,7 @@
     "More Blocks": "আরো কোড ব্লক",
     "Tips": "পরামর্শ"
   },
-  "math": [
-    "মেঝে",
-    "ছাদ",
-    "১০ ^"
-  ],
+  "math": ["মেঝে", "ছাদ", "১০ ^"],
   "aliases": {},
   "name": "বাংলা",
   "percentTranslated": 63,

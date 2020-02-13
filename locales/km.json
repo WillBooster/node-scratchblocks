@@ -177,9 +177,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "អោយអត្ថន័យ"
-  ],
+  "define": ["អោយអត្ថន័យ"],
   "palette": {
     "Motion": "ចលនា",
     "Looks": "រូបរាង",
@@ -193,9 +191,7 @@
     "Operators": "អបភេរ៉េទ័រ",
     "More Blocks": "Blocks ផ្សេងទៀត"
   },
-  "math": [
-    "ឫស​ការ៉េ"
-  ],
+  "math": ["ឫស​ការ៉េ"],
   "aliases": {},
   "name": "សំលៀកបំពាក",
   "percentTranslated": 97,

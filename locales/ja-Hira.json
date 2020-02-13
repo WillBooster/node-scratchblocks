@@ -154,16 +154,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "ピッチ",
-    "さゆうにパン"
-  ],
-  "osis": [
-    "スプライトのほかのスクリプトをとめる"
-  ],
-  "define": [
-    "ていぎ"
-  ],
+  "soundEffects": ["ピッチ", "さゆうにパン"],
+  "osis": ["スプライトのほかのスクリプトをとめる"],
+  "define": ["ていぎ"],
   "palette": {
     "Motion": "うごき",
     "Looks": "みため",

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "izinga elidlulele",
-    "jikisa isinxele-nangakwesokudla"
-  ],
-  "osis": [
-    "omunye umdlalo womlingisi"
-  ],
-  "define": [
-    "chaza"
-  ],
+  "soundEffects": ["izinga elidlulele", "jikisa isinxele-nangakwesokudla"],
+  "osis": ["omunye umdlalo womlingisi"],
+  "define": ["chaza"],
   "palette": {
     "Motion": "Ukunyakaza",
     "Looks": "Ukubukeka",

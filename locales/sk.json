@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "frekvencia",
-    "stereo"
-  ],
-  "osis": [
-    "moje iné scenáre"
-  ],
-  "define": [
-    "blok"
-  ],
+  "soundEffects": ["frekvencia", "stereo"],
+  "osis": ["moje iné scenáre"],
+  "define": ["blok"],
   "palette": {
     "Motion": "Pohyb",
     "Looks": "Vzhľad",

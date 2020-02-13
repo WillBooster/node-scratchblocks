@@ -124,15 +124,11 @@
     "distance": "အကွာအဝေး",
     "else": "မဟုတ်ရင်"
   },
-  "ignorelt": [
-    "distanceundefined"
-  ],
+  "ignorelt": ["distanceundefined"],
   "dropdowns": {},
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "သတ်မှတ်ချက်"
-  ],
+  "define": ["သတ်မှတ်ချက်"],
   "palette": {
     "Motion": "လှုပ်ရှားမှု့",
     "Looks": "မြင်ရပုံ",

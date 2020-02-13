@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "înălțimea sunetului",
-    "deplasare la stânga/dreapta"
-  ],
-  "osis": [
-    "alte scripturi pentru personaj"
-  ],
-  "define": [
-    "definește"
-  ],
+  "soundEffects": ["înălțimea sunetului", "deplasare la stânga/dreapta"],
+  "osis": ["alte scripturi pentru personaj"],
+  "define": ["definește"],
   "palette": {
     "Motion": "Mișcare",
     "Looks": "Aspect",

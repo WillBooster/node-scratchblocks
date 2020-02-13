@@ -150,9 +150,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "определить"
-  ],
+  "define": ["определить"],
   "palette": {
     "Motion": "gihindagurika",
     "Looks": "reba/kugaragara",

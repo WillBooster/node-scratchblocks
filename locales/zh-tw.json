@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "音高",
-    "聲道左/右"
-  ],
-  "osis": [
-    "這個物件的其它程式"
-  ],
-  "define": [
-    "定義"
-  ],
+  "soundEffects": ["音高", "聲道左/右"],
+  "osis": ["這個物件的其它程式"],
+  "define": ["定義"],
   "palette": {
     "Motion": "動作",
     "Looks": "外觀",

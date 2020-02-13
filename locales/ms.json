@@ -136,9 +136,7 @@
     "tilt": "condong",
     "else": "lain"
   },
-  "ignorelt": [
-    "apabila jarakundefined"
-  ],
+  "ignorelt": ["apabila jarakundefined"],
   "dropdowns": {
     "A connected": "A disambungkan",
     "all": "semua",
@@ -194,13 +192,8 @@
     "year": "tahun"
   },
   "soundEffects": [],
-  "osis": [
-    "skrip sprite yang lain",
-    "skrip lain di pentas"
-  ],
-  "define": [
-    "definisi"
-  ],
+  "osis": ["skrip sprite yang lain", "skrip lain di pentas"],
+  "define": ["definisi"],
   "palette": {
     "Motion": "Pergerakan",
     "Looks": "Paparan",
@@ -214,10 +207,7 @@
     "More Blocks": "Blok Tambahan",
     "Tips": "Petua"
   },
-  "math": [
-    "lantai",
-    "siling"
-  ],
+  "math": ["lantai", "siling"],
   "aliases": {},
   "name": "Bahasa Melayu",
   "percentTranslated": 98,

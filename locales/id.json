@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "nada",
-    "pan kiri/kanan"
-  ],
-  "osis": [
-    "skrip lain di sprite ini"
-  ],
-  "define": [
-    "artikan"
-  ],
+  "soundEffects": ["nada", "pan kiri/kanan"],
+  "osis": ["skrip lain di sprite ini"],
+  "define": ["artikan"],
   "palette": {
     "Motion": "Gerakan",
     "Looks": "Tampilan",

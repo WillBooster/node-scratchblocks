@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "گام",
-    "قاب چپ/راست"
-  ],
-  "osis": [
-    "سایر دستور های این شکلک"
-  ],
-  "define": [
-    "تعریف"
-  ],
+  "soundEffects": ["گام", "قاب چپ/راست"],
+  "osis": ["سایر دستور های این شکلک"],
+  "define": ["تعریف"],
   "palette": {
     "Motion": "حرکت",
     "Looks": "ظاهر ها",
@@ -176,22 +169,7 @@
     "Variables": "متغیرها",
     "My Blocks": "قطعه های من"
   },
-  "math": [
-    "قدر مطلق",
-    "کف",
-    "سقف",
-    "جذر",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["قدر مطلق", "کف", "سقف", "جذر", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {
     "به اندازه %1 درجه به چپ بچرخ": "turn @turnLeft %1 degrees",
     "به اندازه %1 درجه به راست بچرخ": "turn @turnRight %1 degrees",

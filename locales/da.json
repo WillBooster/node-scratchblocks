@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tonehøjde",
-    "balance venstre/højre"
-  ],
-  "osis": [
-    "andre scripts i sprite"
-  ],
-  "define": [
-    "definer"
-  ],
+  "soundEffects": ["tonehøjde", "balance venstre/højre"],
+  "osis": ["andre scripts i sprite"],
+  "define": ["definer"],
   "palette": {
     "Motion": "Bevægelse",
     "Looks": "Udseende",

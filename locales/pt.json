@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tom",
-    "canal esquerdo/direito"
-  ],
-  "osis": [
-    "os teus outros guiões"
-  ],
-  "define": [
-    "Define"
-  ],
+  "soundEffects": ["tom", "canal esquerdo/direito"],
+  "osis": ["os teus outros guiões"],
+  "define": ["Define"],
   "palette": {
     "Motion": "Movimento",
     "Looks": "Aparência",

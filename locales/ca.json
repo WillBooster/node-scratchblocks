@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "pitch",
-    "pan esquerra/dreta"
-  ],
-  "osis": [
-    "altres programes del personatge"
-  ],
-  "define": [
-    "defineix"
-  ],
+  "soundEffects": ["pitch", "pan esquerra/dreta"],
+  "osis": ["altres programes del personatge"],
+  "define": ["defineix"],
   "palette": {
     "Motion": "Moviment",
     "Looks": "Aspecte",

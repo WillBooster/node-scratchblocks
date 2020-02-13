@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "frequenza",
-    "panning sinistra/destra"
-  ],
-  "osis": [
-    "tutti gli altri script dello sprite"
-  ],
-  "define": [
-    "definisci"
-  ],
+  "soundEffects": ["frequenza", "panning sinistra/destra"],
+  "osis": ["tutti gli altri script dello sprite"],
+  "define": ["definisci"],
   "palette": {
     "Motion": "Movimento",
     "Looks": "Aspetto",

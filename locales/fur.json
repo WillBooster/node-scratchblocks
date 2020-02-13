@@ -137,9 +137,7 @@
     "tilt": "inclinazion",
     "else": "se no"
   },
-  "ignorelt": [
-    "cuant che la distanceundefined"
-  ],
+  "ignorelt": ["cuant che la distanceundefined"],
   "dropdowns": {
     "A connected": "A conetût",
     "all": "dut",
@@ -195,13 +193,8 @@
     "year": "an"
   },
   "soundEffects": [],
-  "osis": [
-    "ducj chei altris script dal sprite",
-    "ducj chei altris script de sene"
-  ],
-  "define": [
-    "definìs"
-  ],
+  "osis": ["ducj chei altris script dal sprite", "ducj chei altris script de sene"],
+  "define": ["definìs"],
   "palette": {
     "Motion": "Moviment",
     "Looks": "Aspiet",
@@ -216,11 +209,7 @@
     "More Blocks": "Altris Blocs",
     "Tips": "Sugjeriments"
   },
-  "math": [
-    "intîr inferiôr",
-    "intîr superiôr",
-    "radq"
-  ],
+  "math": ["intîr inferiôr", "intîr superiôr", "radq"],
   "aliases": {},
   "name": "Furlan",
   "percentTranslated": 99,

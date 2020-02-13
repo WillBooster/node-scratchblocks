@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "traw",
-    "troi chwith/de"
-  ],
-  "osis": [
-    "sgriptiau eraill yn y ciplun"
-  ],
-  "define": [
-    "diffinio"
-  ],
+  "soundEffects": ["traw", "troi chwith/de"],
+  "osis": ["sgriptiau eraill yn y ciplun"],
+  "define": ["diffinio"],
   "palette": {
     "Motion": "Symudiad",
     "Looks": "Edrychiad",

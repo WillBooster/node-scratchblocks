@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tuinairde",
-    "peanáil ar chlé/ar dheis"
-  ],
-  "osis": [
-    "scripteanna eile sa sprid"
-  ],
-  "define": [
-    "sainmhínigh"
-  ],
+  "soundEffects": ["tuinairde", "peanáil ar chlé/ar dheis"],
+  "osis": ["scripteanna eile sa sprid"],
+  "define": ["sainmhínigh"],
   "palette": {
     "Motion": "Gluaiseacht",
     "Looks": "Cuma",
@@ -176,22 +169,7 @@
     "Variables": "Athróga",
     "My Blocks": "Mo Chuid Blocanna"
   },
-  "math": [
-    "abs",
-    "urlár",
-    "síleáil",
-    "sqrt",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["abs", "urlár", "síleáil", "sqrt", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {},
   "name": "Gaeilge",
   "percentTranslated": 119

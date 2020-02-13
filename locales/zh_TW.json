@@ -139,9 +139,7 @@
     "tilt": "傾斜",
     "else": "否則"
   },
-  "ignorelt": [
-    "當距離undefined"
-  ],
+  "ignorelt": ["當距離undefined"],
   "dropdowns": {
     "A connected": "A 已連接",
     "all": "全部",
@@ -198,13 +196,8 @@
     "year": "年"
   },
   "soundEffects": [],
-  "osis": [
-    "角色的其它程式",
-    "舞台上的其他程式"
-  ],
-  "define": [
-    "定義"
-  ],
+  "osis": ["角色的其它程式", "舞台上的其他程式"],
+  "define": ["定義"],
   "palette": {
     "Motion": "動作",
     "Looks": "外觀",
@@ -220,12 +213,7 @@
     "More Blocks": "更多積木",
     "Tips": "技巧"
   },
-  "math": [
-    "絕對值",
-    "無條件捨去",
-    "無條件進入",
-    "平方根"
-  ],
+  "math": ["絕對值", "無條件捨去", "無條件進入", "平方根"],
   "aliases": {
     "左轉 %n 度": "turn @turnLeft %n degrees",
     "右轉 %n 度": "turn @turnRight %n degrees",

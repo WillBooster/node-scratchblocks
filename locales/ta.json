@@ -154,9 +154,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "வரையறு"
-  ],
+  "define": ["வரையறு"],
   "palette": {
     "Motion": "இயக்கம்",
     "Looks": "தோற்றம்",

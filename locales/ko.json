@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "음 높이",
-    "음향 위치 왼쪽/오른쪽"
-  ],
-  "osis": [
-    "이 스프라이트에 있는 다른 스크립트"
-  ],
-  "define": [
-    "정의하기"
-  ],
+  "soundEffects": ["음 높이", "음향 위치 왼쪽/오른쪽"],
+  "osis": ["이 스프라이트에 있는 다른 스크립트"],
+  "define": ["정의하기"],
   "palette": {
     "Motion": "동작",
     "Looks": "형태",
@@ -176,22 +169,7 @@
     "Variables": "변수",
     "My Blocks": "나만의 블록"
   },
-  "math": [
-    "절댓값",
-    "버림",
-    "올림",
-    "제곱근",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["절댓값", "버림", "올림", "제곱근", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {},
   "name": "한국어",
   "percentTranslated": 119

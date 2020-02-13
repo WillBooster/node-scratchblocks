@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "visina tona",
-    "kretanje lijevo/desno"
-  ],
-  "osis": [
-    "druge programe lika"
-  ],
-  "define": [
-    "definiraj"
-  ],
+  "soundEffects": ["visina tona", "kretanje lijevo/desno"],
+  "osis": ["druge programe lika"],
+  "define": ["definiraj"],
   "palette": {
     "Motion": "Kretanje",
     "Looks": "Izgled",

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "helikõrgus",
-    "heli vasakul/paremal"
-  ],
-  "osis": [
-    "teised spraidi skriptid"
-  ],
-  "define": [
-    "defineeri"
-  ],
+  "soundEffects": ["helikõrgus", "heli vasakul/paremal"],
+  "osis": ["teised spraidi skriptid"],
+  "define": ["defineeri"],
   "palette": {
     "Motion": "Liikumine",
     "Looks": "Välimus",
@@ -176,22 +169,7 @@
     "Variables": "Muutujad",
     "My Blocks": "Minu Plokid"
   },
-  "math": [
-    "abs",
-    "floor",
-    "ceiling",
-    "sqrt",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["abs", "floor", "ceiling", "sqrt", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {},
   "name": "Eesti",
   "percentTranslated": 119

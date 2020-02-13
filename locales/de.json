@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "Höhe",
-    "Aussteuern links/rechts"
-  ],
-  "osis": [
-    "andere Skripte der Figur"
-  ],
-  "define": [
-    "Definiere"
-  ],
+  "soundEffects": ["Höhe", "Aussteuern links/rechts"],
+  "osis": ["andere Skripte der Figur"],
+  "define": ["Definiere"],
   "palette": {
     "Motion": "Bewegung",
     "Looks": "Aussehen",

@@ -114,17 +114,13 @@
     "tilt": "mejjel",
     "else": "inkella"
   },
-  "ignorelt": [
-    "meta id-distanzaundefined"
-  ],
+  "ignorelt": ["meta id-distanzaundefined"],
   "dropdowns": {
     "all": "kollox"
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "ideffinixxi"
-  ],
+  "define": ["ideffinixxi"],
   "palette": {
     "Motion": "Moviment",
     "Looks": "Derha",

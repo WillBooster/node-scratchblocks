@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "hauoro",
-    "huri whakatemauī/whakatekatau"
-  ],
-  "osis": [
-    "hōtuhi kē i roto i te parehe"
-  ],
-  "define": [
-    "tautuhia"
-  ],
+  "soundEffects": ["hauoro", "huri whakatemauī/whakatekatau"],
+  "osis": ["hōtuhi kē i roto i te parehe"],
+  "define": ["tautuhia"],
   "palette": {
     "Motion": "Nekehanga",
     "Looks": "Āhua",
@@ -176,22 +169,7 @@
     "Variables": "Ngā Taurangi",
     "My Blocks": "Aku Paraka"
   },
-  "math": [
-    "abs",
-    "papa",
-    "tuanui",
-    "sqrt",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["abs", "papa", "tuanui", "sqrt", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {},
   "name": "Māori",
   "percentTranslated": 119

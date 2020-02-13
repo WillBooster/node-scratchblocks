@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "płynność dźwięku",
-    "przesuń w lewo/prawo"
-  ],
-  "osis": [
-    "inne skrypty duszka"
-  ],
-  "define": [
-    "definiuj"
-  ],
+  "soundEffects": ["płynność dźwięku", "przesuń w lewo/prawo"],
+  "osis": ["inne skrypty duszka"],
+  "define": ["definiuj"],
   "palette": {
     "Motion": "Ruch",
     "Looks": "Wygląd",

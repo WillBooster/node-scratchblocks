@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tom",
-    "balanço esquerda/direita"
-  ],
-  "osis": [
-    "outros scripts no ator"
-  ],
-  "define": [
-    "defina"
-  ],
+  "soundEffects": ["tom", "balanço esquerda/direita"],
+  "osis": ["outros scripts no ator"],
+  "define": ["defina"],
   "palette": {
     "Motion": "Movimento",
     "Looks": "Aparência",

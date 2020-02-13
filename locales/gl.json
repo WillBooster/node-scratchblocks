@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "ton",
-    "canle esquerda/dereita"
-  ],
-  "osis": [
-    "outros programas na figura"
-  ],
-  "define": [
-    "definir"
-  ],
+  "soundEffects": ["ton", "canle esquerda/dereita"],
+  "osis": ["outros programas na figura"],
+  "define": ["definir"],
   "palette": {
     "Motion": "Movemento",
     "Looks": "Aparencia",

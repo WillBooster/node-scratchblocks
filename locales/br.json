@@ -186,13 +186,8 @@
     "year": "bloavezh"
   },
   "soundEffects": [],
-  "osis": [
-    "skriptoù all al lutun",
-    "skriptoù all"
-  ],
-  "define": [
-    "termeniñ"
-  ],
+  "osis": ["skriptoù all al lutun", "skriptoù all"],
+  "define": ["termeniñ"],
   "palette": {
     "Motion": "Fiñv",
     "Looks": "Tres",
@@ -208,11 +203,7 @@
     "More Blocks": "Ouzhpennañ bloc'hoù",
     "Tips": "Alioù"
   },
-  "math": [
-    "leur",
-    "d'an nec'h",
-    "gwrizienn"
-  ],
+  "math": ["leur", "d'an nec'h", "gwrizienn"],
   "aliases": {},
   "name": "",
   "percentTranslated": 99,

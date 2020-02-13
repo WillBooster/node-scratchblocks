@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tonhöjd",
-    "panorera vänster/höger"
-  ],
-  "osis": [
-    "andra skript i sprajten"
-  ],
-  "define": [
-    "definiera"
-  ],
+  "soundEffects": ["tonhöjd", "panorera vänster/höger"],
+  "osis": ["andra skript i sprajten"],
+  "define": ["definiera"],
   "palette": {
     "Motion": "Rörelse",
     "Looks": "Utseende",
@@ -176,22 +169,7 @@
     "Variables": "Variabler",
     "My Blocks": "Mina block"
   },
-  "math": [
-    "abs",
-    "golv",
-    "tak",
-    "sqrt",
-    "sin",
-    "cos",
-    "tan",
-    "asin",
-    "acos",
-    "atan",
-    "ln",
-    "log",
-    "e ^",
-    "10 ^"
-  ],
+  "math": ["abs", "golv", "tak", "sqrt", "sin", "cos", "tan", "asin", "acos", "atan", "ln", "log", "e ^", "10 ^"],
   "aliases": {},
   "name": "Svenska",
   "percentTranslated": 119

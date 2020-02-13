@@ -204,12 +204,14 @@ function parseLines(code, languages) {
         case '\\':
           next(); // escape character
         // fall-thru
-        case ":": // eslint-disable-line
+        // eslint-disable-next-line
+        case ':':
           if (tok === ':' && peek() === ':') {
             children.push(pOverrides(end));
             return children;
           } // fall-thru
-        default: // eslint-disable-line
+        // eslint-disable-next-line
+        default:
           if (!label) children.push((label = new Label('')));
           label.value += tok;
           next();
@@ -455,12 +457,15 @@ function parseLines(code, languages) {
         case '\\':
           next();
         // fall-thru
-        case ":": // eslint-disable-line
+        // eslint-disable-next-line
+        case ':':
           if (tok === ':' && peek() === ':') {
             children.push(pOverrides());
             break;
-          } // fall-thru
-        default: // eslint-disable-line
+          }
+        // fall-thru
+        // eslint-disable-next-line
+        default:
           if (!label) children.push((label = new Label('')));
           label.value += tok;
           next();

@@ -138,9 +138,7 @@
     "tilt": "panche",
     "else": "sinon"
   },
-  "ignorelt": [
-    "lè distansundefined"
-  ],
+  "ignorelt": ["lè distansundefined"],
   "dropdowns": {
     "A connected": "konekte A",
     "all": "tout",
@@ -186,9 +184,7 @@
   },
   "soundEffects": [],
   "osis": [],
-  "define": [
-    "defini"
-  ],
+  "define": ["defini"],
   "palette": {
     "Motion": "Mouvman",
     "Looks": "Aparans",
@@ -204,14 +200,7 @@
     "More Blocks": "Lòt blok",
     "Tips": "Poul"
   },
-  "math": [
-    "plafon",
-    "rasin",
-    "sinis envès",
-    "tanjant envès",
-    "sinis envès",
-    "tanjant envès"
-  ],
+  "math": ["plafon", "rasin", "sinis envès", "tanjant envès", "sinis envès", "tanjant envès"],
   "aliases": {},
   "name": "Kreyòl",
   "percentTranslated": 100,

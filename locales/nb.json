@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tonehøyde",
-    "retning"
-  ],
-  "osis": [
-    "andre skript i figuren"
-  ],
-  "define": [
-    "definer"
-  ],
+  "soundEffects": ["tonehøyde", "retning"],
+  "osis": ["andre skript i figuren"],
+  "define": ["definer"],
   "palette": {
     "Motion": "Bevegelse",
     "Looks": "Utseende",

@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "garso aukštis",
-    "pan left/right"
-  ],
-  "osis": [
-    "kitus veikėjo scenarijus"
-  ],
-  "define": [
-    "apibrėžti komandą"
-  ],
+  "soundEffects": ["garso aukštis", "pan left/right"],
+  "osis": ["kitus veikėjo scenarijus"],
+  "define": ["apibrėžti komandą"],
   "palette": {
     "Motion": "Judėjimas",
     "Looks": "Išvaizda",

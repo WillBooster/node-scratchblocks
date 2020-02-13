@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { promisify } = require('util');
+
 const writeFile = promisify(fs.writeFile);
 
 const scratchCommands = require('../syntax/commands');

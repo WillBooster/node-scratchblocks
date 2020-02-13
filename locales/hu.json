@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "hangmagasság",
-    "pásztázás balra/jobbra"
-  ],
-  "osis": [
-    "szereplő többi feladata"
-  ],
-  "define": [
-    "meghatározása"
-  ],
+  "soundEffects": ["hangmagasság", "pásztázás balra/jobbra"],
+  "osis": ["szereplő többi feladata"],
+  "define": ["meghatározása"],
   "palette": {
     "Motion": "Mozgás",
     "Looks": "Kinézet",

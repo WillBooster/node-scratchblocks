@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "tonehøgd",
-    "venstre–høgre-panorering"
-  ],
-  "osis": [
-    "andre skript i figuren"
-  ],
-  "define": [
-    "definer"
-  ],
+  "soundEffects": ["tonehøgd", "venstre–høgre-panorering"],
+  "osis": ["andre skript i figuren"],
+  "define": ["definer"],
   "palette": {
     "Motion": "Rørsle",
     "Looks": "Utsjånad",

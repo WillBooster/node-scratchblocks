@@ -126,9 +126,7 @@
     "tilt": "helning",
     "else": "ellers"
   },
-  "ignorelt": [
-    "når avstandundefined"
-  ],
+  "ignorelt": ["når avstandundefined"],
   "dropdowns": {
     "A connected": "A tilkoblet",
     "all": "alle",
@@ -182,13 +180,8 @@
     "year": "år"
   },
   "soundEffects": [],
-  "osis": [
-    "andre skript i figuren",
-    "andre skript på scenen"
-  ],
-  "define": [
-    "definer"
-  ],
+  "osis": ["andre skript i figuren", "andre skript på scenen"],
+  "define": ["definer"],
   "palette": {
     "Motion": "Bevegelse",
     "Looks": "Utseende",
@@ -200,11 +193,7 @@
     "Operators": "Operatorer",
     "More Blocks": "Flere klosser"
   },
-  "math": [
-    "gulv",
-    "tak",
-    "kvadratrot"
-  ],
+  "math": ["gulv", "tak", "kvadratrot"],
   "aliases": {},
   "name": "Norsk",
   "percentTranslated": 91,

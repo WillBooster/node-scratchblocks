@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "altura",
-    "paneo izquierda/derecha"
-  ],
-  "osis": [
-    "otros programas en el objeto"
-  ],
-  "define": [
-    "definir"
-  ],
+  "soundEffects": ["altura", "paneo izquierda/derecha"],
+  "osis": ["otros programas en el objeto"],
+  "define": ["definir"],
   "palette": {
     "Motion": "Movimiento",
     "Looks": "Apariencia",

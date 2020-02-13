@@ -187,13 +187,8 @@
     "year": "aña"
   },
   "soundEffects": [],
-  "osis": [
-    "otro scriptnan den sprait",
-    "otro scriptnan den stage"
-  ],
-  "define": [
-    "definí"
-  ],
+  "osis": ["otro scriptnan den sprait", "otro scriptnan den stage"],
+  "define": ["definí"],
   "palette": {
     "Motion": "movementu",
     "Looks": "mustra",
@@ -208,11 +203,7 @@
     "More Blocks": "Mas bloki",
     "Tips": "Tipnan"
   },
-  "math": [
-    "flur",
-    "plafond",
-    "wòrtel"
-  ],
+  "math": ["flur", "plafond", "wòrtel"],
   "aliases": {},
   "name": "Idoma-Nòmber",
   "percentTranslated": 97,

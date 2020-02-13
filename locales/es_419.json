@@ -137,9 +137,7 @@
     "tilt": "inclinación",
     "else": "si no"
   },
-  "ignorelt": [
-    "cuando la distancia seaundefined"
-  ],
+  "ignorelt": ["cuando la distancia seaundefined"],
   "dropdowns": {
     "A connected": "A conectado",
     "all": "todos",
@@ -195,13 +193,8 @@
     "year": "año"
   },
   "soundEffects": [],
-  "osis": [
-    "otros programas en el objeto",
-    "otros programas en el escenario"
-  ],
-  "define": [
-    "definir"
-  ],
+  "osis": ["otros programas en el objeto", "otros programas en el escenario"],
+  "define": ["definir"],
   "palette": {
     "Motion": "Movimiento",
     "Looks": "Apariencia",
@@ -215,12 +208,7 @@
     "More Blocks": "Más Bloques",
     "Tips": "Sugerencias"
   },
-  "math": [
-    "piso",
-    "techo",
-    "raíz cuadrada",
-    "En"
-  ],
+  "math": ["piso", "techo", "raíz cuadrada", "En"],
   "aliases": {},
   "name": "Español (Latino)",
   "percentTranslated": 99,

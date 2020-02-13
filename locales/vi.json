@@ -155,16 +155,9 @@
   },
   "dropdowns": {},
   "ignorelt": [],
-  "soundEffects": [
-    "cao độ",
-    "pan trái/phải"
-  ],
-  "osis": [
-    "các kịch bản khác cho đối tượng"
-  ],
-  "define": [
-    "định nghĩa"
-  ],
+  "soundEffects": ["cao độ", "pan trái/phải"],
+  "osis": ["các kịch bản khác cho đối tượng"],
+  "define": ["định nghĩa"],
   "palette": {
     "Motion": "Chuyển động",
     "Looks": "Hiển thị",

@@ -138,9 +138,7 @@
     "tilt": "inclinación",
     "else": "si no"
   },
-  "ignorelt": [
-    "quan a distanciaundefined"
-  ],
+  "ignorelt": ["quan a distanciaundefined"],
   "dropdowns": {
     "A connected": "A connectau",
     "all": "totz",
@@ -195,13 +193,8 @@
     "year": "anyo"
   },
   "soundEffects": [],
-  "osis": [
-    "atros programas de l'obchecto",
-    "atros programas en o scenario"
-  ],
-  "define": [
-    "definir"
-  ],
+  "osis": ["atros programas de l'obchecto", "atros programas en o scenario"],
+  "define": ["definir"],
   "palette": {
     "Motion": "Movimiento",
     "Looks": "Aparencia",
@@ -215,11 +208,7 @@
     "More Blocks": "Mas bloques",
     "Tips": "Consellos"
   },
-  "math": [
-    "parte entera",
-    "teito",
-    "radiz quadrada"
-  ],
+  "math": ["parte entera", "teito", "radiz quadrada"],
   "aliases": {},
   "name": "Aragonés",
   "percentTranslated": 100,

@@ -133,9 +133,7 @@
     "Sensing": "अनुभव गर्दै",
     "Tips": "सुझावहरू"
   },
-  "math": [
-    "वर्गमूल"
-  ],
+  "math": ["वर्गमूल"],
   "aliases": {},
   "name": "नेपाली",
   "percentTranslated": 69,

@@ -62,23 +62,14 @@
     "year": "afọ"
   },
   "soundEffects": [],
-  "osis": [
-    "edemede ọzọ bụ sprite(ihe)"
-  ],
+  "osis": ["edemede ọzọ bụ sprite(ihe)"],
   "define": [],
   "palette": {
     "Motion": "Mmeghari ahu",
     "Sound": "Uda",
     "Events": "mmemme"
   },
-  "math": [
-    "ala",
-    "elu ulọ",
-    "acos",
-    "N'ime",
-    "e^",
-    "10^"
-  ],
+  "math": ["ala", "elu ulọ", "acos", "N'ime", "e^", "10^"],
   "aliases": {},
   "name": "",
   "percentTranslated": 19,
